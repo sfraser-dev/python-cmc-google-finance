@@ -1,0 +1,1 @@
+Python script for accessing google finance price information.
